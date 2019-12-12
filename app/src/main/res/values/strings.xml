@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Facebook_Fragment</string>
+    <string name="facebook_app_id">2441757119372757</string>
+    <string name="fb_login_protocol_scheme">fb2441757119372757</string>
+    <string name="title_activity_main2" />
+    <string name="action_settings" />
+</resources>
